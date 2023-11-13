@@ -1,5 +1,5 @@
 -- Dataset: MySkill SQL for Data Analysis Project 
--- Link Dataset: https://drive.google.com/file/d/1ln9B8f2ryOWUK73eCipoGMKDE5lVTw50/view?usp=drive_link
+-- Link Dataset: https://opendata.jabarprov.go.id/id/dataset/proyeksi-jumlah-usaha-mikro-kecil-menengah-umkm-berdasarkan-kategori-usaha-di-jawa-barat
 -- Query used: MySQL Workbench, postgreSQL
 
 select * from umkm_jabar;
