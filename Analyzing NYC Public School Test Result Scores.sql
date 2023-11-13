@@ -1,3 +1,6 @@
+-- Dataset: Datacamp SQL Project Intermediate
+-- Queried using: MySQL Workbench, postgreSQL
+
 -- CASE 1
 -- Select all columns from the database
 -- Display only the first ten rows
