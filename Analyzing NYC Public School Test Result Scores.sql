@@ -1,5 +1,6 @@
--- Dataset: Datacamp SQL Project Intermediate
--- Queried using: MySQL Workbench, postgreSQL
+-- Dataset: Datacamp SQL Project Intermediate 
+-- Link Dataset: https://drive.google.com/file/d/16McmjLX28vI3CjUqr01MNDDS4ea7D7aj/view?usp=drive_link
+-- Queried used: MySQL Workbench, postgreSQL
 
 -- CASE 1
 -- Select all columns from the database
